@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Atleyang is a passionate (3rd Year) computer science student determined to make a lasting impact on the field. He has an in-depth knowledge of coding languages such as Java, JavaScript, Python, PHP (Frameworks as well), and C++. He is currently exploring the potential of machine learning and artificial intelligence. Atleyang is a natural problem-solver who approaches his work with creativity and enthusiasm. He is also a great communicator and loves working with others to collaborate on complex projects. Atleyang is motivated by the potential of technology to change people’s lives for the better and is excited to be part of the computer science revolution.
 <!---
 clevercartoons/clevercartoons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
